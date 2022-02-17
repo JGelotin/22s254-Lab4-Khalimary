@@ -2,7 +2,7 @@
 
 Group Name: Khalimary
 
-Group Members:
+Group Members:\
 Joel Allan Gelotin\
 Kelly Vu\
-Guanlin Wang\
+Guanlin Wang
